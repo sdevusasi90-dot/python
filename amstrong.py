@@ -8,6 +8,6 @@ while temp > 0:
     temp=temp//10
 
 if sum == num:
-    print(num,"is a palindrome")    
+    print(num,"is  amstrong")    
 else:
-    print(num,"not a plindome")
+    print(num,"not an amstrong")
